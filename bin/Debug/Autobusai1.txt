@@ -1,0 +1,7 @@
+Pagramancio parkas;Silales g. 50;
+Algimantas Alirauskas; 40; Autobusas; 1999; 15; 300000;
+Justinas Jarutis; 30; Autobusas; 2003; 20; 250000;
+Airinga Mira; 15; Mikroautobusas; 2009; 10; 200000;
+Jonas Jonaitis; 30; Mikroautobusas; 1998; 25; 500000;
+Antanas Antanaitis; 15; Mikroautobusas; 2005; 10; 350000;
+Jurgilijus Jurgas; 27; Autobusas; 2008; 28; 400000;

@@ -1,0 +1,11 @@
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\bin\Debug\U1-10.exe.config
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\bin\Debug\U1-10.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\bin\Debug\U1-10.pdb
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\obj\Debug\U1-10.csproj.AssemblyReference.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\obj\Debug\U1-10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\obj\Debug\U1_10.Form1.resources
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\obj\Debug\U1_10.Properties.Resources.resources
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\obj\Debug\U1-10.csproj.GenerateResource.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\obj\Debug\U1-10.csproj.CoreCompileInputs.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\obj\Debug\U1-10.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 2\Laboratoriniai\U1-10\obj\Debug\U1-10.pdb

@@ -1,0 +1,7 @@
+Tytuvenu parkas;Kelmes g. 50;
+Afonsas Micius; 40; Mikroautobusas; 1990; 20; 500000;
+Jaronimas Juris; 30; Mikroautobusas; 2001; 10; 360000;
+Coco Melon; 15; Autobusas; 2009; 16; 100000;
+Ona Onyte; 30; Autobusas; 2000; 10; 700000;
+Deividas Deivis; 15; Autobusas; 2003; 15; 450000;
+Paulius Paulauskas; 27; Mikroautobusas; 2010; 20; 300000;
